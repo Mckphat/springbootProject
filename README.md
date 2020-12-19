@@ -6,4 +6,4 @@ My project takes in user objects and asking for their name, email, password in o
 A form created in the index.jsp file and it saves the user's input into a h2 database.
 Everything seems to be implemented correctly there are a few issues: 
 * not knowing how to link back to a .jsp or go from .jsp to .jsp files 
-* SQL database intake works, but it is inputted incorrectly. Nonetheless it works 
+* SQL database intake works, but it is outputted incorrectly in the table. Nonetheless it works 
